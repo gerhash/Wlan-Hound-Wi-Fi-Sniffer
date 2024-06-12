@@ -1,11 +1,16 @@
 
-# Wlan Hound Wi-Fi-Sniffer
+<img src="https://github.com/gerhash/Wlan-Hound-Wi-Fi-Sniffer/assets/62940515/c347a95c-0eb1-48ad-a04c-a668e54baaf6" alt="WlanHound" width="700" height="500">
 
+# Wlan Hound Wi-Fi-Sniffer
+<img src="https://skillicons.dev/icons?i=py" alt="Skills" />
 ## Overview
 This Python script allows you to sniff network packets on your Wi-Fi network using Scapy. It provides a simple interface to capture and analyze network traffic.
 
 ## Purpose
 Network sniffing is the process of intercepting and logging the traffic passing over a digital network. It can be useful for various purposes, including network troubleshooting, security analysis, and performance monitoring. 
+
+![Deployment-of-packet-sniffer-for-intrusion-detection](https://github.com/gerhash/Wlan-Hound-Wi-Fi-Sniffer/assets/62940515/0c3663ba-1af1-4544-88d5-b3a85789f68d)
+
 
 ## Usage
 1. Install the required dependencies listed in `requirements.txt`.
